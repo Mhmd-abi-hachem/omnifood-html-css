@@ -6,7 +6,7 @@ A responsive, single-page website for a hypothetical AI-powered food subscriptio
 
 ### **🚀 Live Demo**
 
-[https://www.omnifood-ai-diet.netlify.app](https://www.omnifood-ai-diet.netlify.app)
+[https://omnifood-ai-diet.netlify.app](https://omnifood-ai-diet.netlify.app)
 
 ---
 
